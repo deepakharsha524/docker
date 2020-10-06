@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  ha-mediawiki:
+      build: 
+        context: .
+
